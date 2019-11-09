@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name inv_hdr)(type KiCad)(uri ${KIPRJMOD}/inv_hdr.pretty)(options "")(descr ""))
+  (lib (name IS42S16400J-6TL)(type Legacy)(uri ${KIPRJMOD}/IS42S16400J-6TL.mod)(options "")(descr ""))
+)
